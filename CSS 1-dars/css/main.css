@@ -1,0 +1,23 @@
+/* selectors: tag,class,id */
+
+p,h1{
+    color: green;
+}
+.text{
+    color: brown;
+}
+.font{
+    font-size: 25px;
+}
+#bg{
+    background-color: black;
+    color: white;
+}
+#ba{
+    background-color: black;
+}
+
+
+
+
+
